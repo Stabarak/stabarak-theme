@@ -25,7 +25,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Stabra-Theme",
+        "label": "Stabrak-Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Stabra-Theme-color-theme.json"
       }
