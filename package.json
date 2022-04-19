@@ -1,21 +1,37 @@
 {
-    "name": "stabarak-theme",
-    "displayName": "Stabarak-theme",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Stabra-Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Stabra-Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "stabarak-theme",
+  "displayName": "Stabarak-theme",
+  "description": "The VS Code theme created for fun and try!",
+  "version": "0.0.1",
+  "publisher": "SyedTabarakUlla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stabarak/stabarak-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "stabarak",
+    "syed tabarak",
+    "stabarak-theme",
+    "stabarak-dark"
+  ],
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stabra-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stabra-Theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.7.0"
+  }
 }
