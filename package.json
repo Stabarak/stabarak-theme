@@ -2,7 +2,7 @@
   "name": "stabarak-theme",
   "displayName": "Stabarak-theme",
   "description": "The VS Code theme created for fun and try!",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "SyedTabarakUlla",
   "repository": {
     "type": "git",
